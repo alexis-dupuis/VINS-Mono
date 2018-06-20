@@ -1,5 +1,11 @@
 # VINS-Mono
 ## A Robust and Versatile Monocular Visual-Inertial State Estimator
+
+This branch contains a set of modifications made in preparation for a SLAM benchmark on Ubuntu 16.04 with ROS kinetic.
+
+
+
+
 **29 Dec 2017**: New features: Add map merge, pose graph reuse, online temporal calibration function, and support rolling shutter camera. Map reuse videos: 
 
 <a href="https://www.youtube.com/embed/WDpH80nfZes" target="_blank"><img src="http://img.youtube.com/vi/WDpH80nfZes/0.jpg" 
